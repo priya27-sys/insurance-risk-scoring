@@ -40,7 +40,7 @@ the findings — the same kind of work a pricing analyst would do.
 
 ## Dashboard
 
-![Motor Insurance Risk Analysis Dashboard](dashboard_screenshot.png)
+![Motor Insurance Risk Analysis Dashboard](power bi dashboard.PNG)
 
 ---
 
