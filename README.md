@@ -65,9 +65,12 @@ Python · Pandas · Scikit-learn · Matplotlib · Power BI · Jupyter Notebook
 |---|---|
 | `insurance_risk_analysis.ipynb` | Full Python notebook |
 | `insurance_risk_scored.csv` | Dataset with risk scores added |
-| `dashboard_screenshot.png` | Power BI dashboard |
+| `power bi Dashboard.png` | Power BI dashboard |
 | `feature_importance.png` | Top features predicting claims |
 | `claims_by_age.png` | Claims breakdown by age group |
+| `claims_by_vehicle_type.png` | Claims breakdown by type of vehicle |
+| `claims_by_credit_score.png` | Claims breakdown by credit_score |
+
 
 ---
 
