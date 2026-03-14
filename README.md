@@ -58,8 +58,8 @@ the findings — the same kind of work a pricing analyst would do.
 
 ---
 
-### Dashboard
-![Dashboard](dashboard_screenshot.png)
+### Power BI Dashboard
+![Dashboard](power%20bi%20dashboard.PNG)
 
 ---
 
