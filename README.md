@@ -39,7 +39,7 @@ the findings — the same kind of work a pricing analyst would do.
 | Average risk score | 0.31 |
 
 ### Claims by Vehicle Type
-![Claims by Vehicle Type](claim by vehicle_type.PNG)
+![Claims by Vehicle Type](claim by_vehicle_type.PNG)
 
 ---
 
@@ -49,11 +49,12 @@ the findings — the same kind of work a pricing analyst would do.
 ---
 
 ### Insurance Claims by Age Group
-![Claims by Age Group](insurance claim by age_group.PNG)
+![Claims by Age Group](claim_by_age.png)
+
 ---
 
 ### Insurance Claims by Credit Score
-![Claims by Credit Score](insurance claim by credit_score.PNG)
+![Claims by Credit Score]( claim_by_credit_score.png)
 
 ---
 
