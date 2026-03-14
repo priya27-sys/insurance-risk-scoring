@@ -39,7 +39,7 @@ the findings — the same kind of work a pricing analyst would do.
 | Average risk score | 0.31 |
 
 ### Claims by Vehicle Type
-![Claims by Vehicle Type](claim by_vehicle_type.PNG)
+![Claims by Vehicle Type](claim by vehicle_type.PNG)
 
 ---
 
