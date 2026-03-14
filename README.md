@@ -49,7 +49,7 @@ the findings — the same kind of work a pricing analyst would do.
 ---
 
 ### Insurance Claims by Age Group
-![Claims by Age Group](insuranceclaim_by_age_group.png)
+![Claims by Age Group](insurance claim by age_group.png)
 
 ---
 
