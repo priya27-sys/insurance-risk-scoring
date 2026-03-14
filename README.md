@@ -39,7 +39,7 @@ the findings — the same kind of work a pricing analyst would do.
 | Average risk score | 0.31 |
 
 ### Claims by Vehicle Type
-![Claims by Vehicle Type](claim by vehicle_type.PNG)
+![Claims by Vehicle Type](claim%20by%20vehicle_type.PNG)
 
 ---
 
@@ -49,18 +49,17 @@ the findings — the same kind of work a pricing analyst would do.
 ---
 
 ### Insurance Claims by Age Group
-![Claims by Age Group](insurance claim by age_group.png)
+![Claims by Age Group](insurance%20claim%20by%20age_group.png)
 
 ---
 
 ### Insurance Claims by Credit Score
-![Claims by Credit Score]( insuranceclaim_by_credit_score.PNG)
+![Claims by Credit Score](insurance%20claim%20by%20credit_score.PNG)
 
 ---
 
-## Dashboard
-
-![Motor Insurance Risk Analysis Dashboard](powerbidashboard.PNG)
+### Dashboard
+![Dashboard](dashboard_screenshot.png)
 
 ---
 
