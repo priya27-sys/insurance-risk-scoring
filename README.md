@@ -49,18 +49,18 @@ the findings — the same kind of work a pricing analyst would do.
 ---
 
 ### Insurance Claims by Age Group
-![Claims by Age Group](claim_by_age.png)
+![Claims by Age Group](insuranceclaim_by_age_group.png)
 
 ---
 
 ### Insurance Claims by Credit Score
-![Claims by Credit Score]( claim_by_credit_score.png)
+![Claims by Credit Score]( insuranceclaim_by_credit_score.PNG)
 
 ---
 
 ## Dashboard
 
-![Motor Insurance Risk Analysis Dashboard](power bi dashboard.PNG)
+![Motor Insurance Risk Analysis Dashboard](powerbidashboard.PNG)
 
 ---
 
