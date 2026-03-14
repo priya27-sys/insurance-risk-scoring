@@ -1,4 +1,6 @@
-# Motor Insurance Risk Scoring Model
+# 🚗 Motor Insurance Risk Scoring Model
+
+![Cover](insurance_cover.jpg.jpg)
 
 A machine learning project I built to predict which car insurance 
 customers are likely to make a claim, using Python and Power BI.
@@ -35,6 +37,23 @@ the findings — the same kind of work a pricing analyst would do.
 | Medium risk customers | 354 |
 | Low risk customers | 1,214 |
 | Average risk score | 0.31 |
+
+### Claims by Vehicle Type
+![Claims by Vehicle Type](claim by vehicle_type.PNG)
+
+---
+
+### Feature Importance
+![Feature Importance](features.PNG)
+
+---
+
+### Insurance Claims by Age Group
+![Claims by Age Group](insurance claim by age_group.PNG)
+---
+
+### Insurance Claims by Credit Score
+![Claims by Credit Score](insurance claim by credit_score.PNG)
 
 ---
 
